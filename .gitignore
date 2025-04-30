@@ -1,0 +1,4 @@
+tools/amd64/WinPE*
+tools/arm64cpu/WinPE*
+tools/amd64/lang/WinPE*
+tools/arm64cpu/lang/WinPE*
