@@ -22,7 +22,7 @@ Copy `.cab` files into the `tools\amd64` or `tools\arm64cpu` folder, depending o
 
 Install: 
 ``` powershell
-`C:\Windows\SysNative\WindowsPowershell\v1.0\PowerShell.exe -ExecutionPolicy Bypass -Command .\inject-wifi-to-winre.ps1 -verbose`
+`C:\Windows\SysNative\WindowsPowershell\v1.0\PowerShell.exe -ExecutionPolicy Bypass -Command .\customize-winre.ps1 -verbose`
 ```
 <span style="color:cornflowerblue;font-weight:bold">🛈  HINT</span><br/>
     There is an optional parameter `-backupOemWinre` to keep the OEM recovery image if needed.
