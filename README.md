@@ -3,6 +3,8 @@
 This tool is used to customize a local Windows Recovery Partition and Environment.
 It will resize the Recovery Partition to 984MB (1031798784 Bytes), add `.cab` files for e.g. PowerShell support (remember to add the matching language files for installation).
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/niklasrst/windows-recovery-partition/total)
+
 ## Requirements
 Download the current `mul_languages_and_optional_features_for_windows_11` ISO (available in MSDN), containing the `.cab` files for optional features and languages.
 
